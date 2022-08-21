@@ -1,6 +1,9 @@
 # 💫 About Me:
 ### Hi there 👋<br>I'm Ozan Filiz<br>A software developer from Turkey<br><br>- 🔭 I’m currently working on C#, .Net, Angular and Razor.
 
+---
+![](https://komarev.com/ghpvc/?username=ozanfilizzz)
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/7816) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ozan-filiz) 
@@ -12,5 +15,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ozanfilizzz&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ozanfilizzz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=ozanfilizzz&icon=2&color=0)](https://visitcount.itsvg.in)
+
+
